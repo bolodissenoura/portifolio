@@ -39,10 +39,10 @@ span {
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
 
-    .info h1 {
+    .info h1 p {
         font-size: 70px;
         color: #212121;
-        margin-bottom: 2px;
+        margin-bottom: 0px;
     }
     img {
         position: relative;
