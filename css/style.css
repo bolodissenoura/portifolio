@@ -59,7 +59,7 @@ input{
 	margin-top: -200vh;
 }
 
-#rd_contato:checked ~ .sections{
+#rd_habilidades:checked ~ .sections{
 	margin-top: -300vh;
 }
 

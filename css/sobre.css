@@ -1,5 +1,25 @@
 #sobre {
-    background-color: #ced4da;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(/css/img/sobrebcg.png);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 20px;
 }
 
+img{
+    border-radius: 50%;
+}
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0;
+}
+p{
+    font-family: cursive;
+}
 
