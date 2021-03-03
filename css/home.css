@@ -8,7 +8,7 @@ img {
 .info{
     background-color: transparent;
     font-family: sans-serif;
-    position: fixed;
+    position:absolute;
     margin-right: 30%;
 }
 .info h1 {
