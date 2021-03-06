@@ -1,9 +1,9 @@
 #home {
     background-color: #edf2fc;
 }
-img {
+.lingua  {
     position: relative;
-    left: 35%;
+    left: 30%;
 }
 .info{
     background-color: transparent;
