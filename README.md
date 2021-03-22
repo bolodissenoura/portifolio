@@ -1,22 +1,25 @@
-📢Este foi um projeto para um projeto seletivo de uma empresa especializada em Frontend.
+📢Este foi meu primeiro projeto, um portifólio.
+Aprendi muito com esse projeto, antes edle nunca nem tinha ouvido falar de FrontEnd ou HTLM e CSS.
 
 Utilizei HTML5 e CSS;
 Responsivo para todas as telas;
+Feito sob demanda, como pedido pelos designers;
+
 ---------------------------------------------------
 
-📢This is my first project, a portfolio.
-I learned a lot from this project, before it i have never programing in HTLM and CSS.
+📢This was a project for a selective project of a company specialized in Frontend.
 
 I used HTML5 and CSS;
 Responsive for all screens;
+Made on demand, as requested by the designers;
+
 -----------------------------------------------
 
-COMPUTER SCREEN // MOBILE SCREEN ;
-<img src="https://media.giphy.com/media/G1cZjz5xhvF0As9AlS/giphy.gif" width="800" height="400" />;
+COMPUTER SCREEN // MOBILE SCREEN :
+<img src="https://media.giphy.com/media/pIEiOxH5lU3jSNhYs3/giphy.gif" width="800" height="400" />
 
------------------------------------------------------
 
-<img src="https://media.giphy.com/media/5U2iiDTawxVCgjE4UJ/giphy.gif" width="800" height="400" />;
+<img src="https://media.giphy.com/media/lHP85h9meyamIT2tYD/giphy.gif" width="800" height="400" />
 
 --------------------------------------------------
 
