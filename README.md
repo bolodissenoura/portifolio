@@ -1,17 +1,30 @@
-📢Este foi meu primeiro projeto, um portifólio.
-Aprendi muito com esse projeto, antes dele nunca nem tinha ouvido falar de FrontEnd ou HTLM e CSS.
+📢Este foi meu primeiro projeto, um portfólio. Aprendi muito com esse projeto, antes dele nunca nem tinha ouvido falar de FrontEnd ou HTLM e CSS.
 
-Utilizei HTML5 e CSS;
-Responsivo para todas as telas;
-Feito sob demanda, como pedido pelos designers;
+✔Utilizei HTML5 e CSS; 
 
----------------------------------------------------
+✔Responsivo para todas as telas;
 
-📢This is my first project, a portifolio.
+------------------------------------------------------
 
-I used HTML5 and CSS;
-Responsive for all screens;
-Made on demand, as requested by the designers;
+📢This is my first Project, a portfolio.
+
+✔HTML5 and CSS; 
+
+✔Responsive for all screens;
+
+-----------------------------------------------
+
+Link do projeto: https://bolodissenoura.github.io/portifolio/
+
+-----------------------------------------------
+
+🎈🎈Contato // Social medias
+
+Github:
+
+Instagram: daniellimae
+
+Email : danielunivap@outlook.com 
 
 -----------------------------------------------
 
@@ -23,6 +36,3 @@ COMPUTER SCREEN // MOBILE SCREEN :
 
 --------------------------------------------------
 
-
-@daniellimae on instagram //
-email : danielunivap@outlook.com
