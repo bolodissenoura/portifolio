@@ -7,7 +7,7 @@ Feito sob demanda, como pedido pelos designers;
 
 ---------------------------------------------------
 
-📢This was a project for a selective project of a company specialized in Frontend.
+📢This is my first project, a portifolio.
 
 I used HTML5 and CSS;
 Responsive for all screens;
