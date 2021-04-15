@@ -27,7 +27,7 @@
     box-shadow: 10px 10px black;
 }
 
-.htmllogo, .onglogo{
+.htmllogo, .onglogo,.iwapparel{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -45,4 +45,7 @@
 }
 .onglogo{
     background-image: url(img/jose.jpg);
+}
+.iwapparel{
+    background-image: url(img/logoapparel.jpg);
 }
