@@ -27,7 +27,7 @@
     box-shadow: 10px 10px black;
 }
 
-.htmllogo{
+.htmllogo, .onglogo{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -42,4 +42,7 @@
 }
 .htmllogo{
     background-image: url(img/htmllogo.png);
+}
+.onglogo{
+    background-image: url(img/jose.jpg);
 }
